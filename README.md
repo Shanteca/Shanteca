@@ -1,9 +1,44 @@
-- 👋 Hi, I’m @Shanteca, a passionate data analyst on a journey to explore the world of data and insights.
-- 👀 I’m interested in Exploring diverse datasets and discovering meaningful insights hidden within the data, Using data visualization to communicate complex information in a clear and compelling manner, and Applying statistical methods to gain valuable insights and support data-driven decision-making.
-- 🌱 I’m currently learning SQL to manipulate data and perform basic analysis. I'm immersing myself in data cleaning and exploratory data analysis techniques.
-- 💞️ I’m looking to collaborate on data projects where I can apply my newly acquired data analysis skills. I'd love to work on projects that involve visualizing data and extracting valuable patterns and trends.
-- 📫 How to reach me on my Linkedin at https://www.linkedin.com/in/shanteca-alfred/
+#SQL Analytics Portfolio
 
+Welcome to my SQL analytics portfolio! This repository showcases my hands-on experience with real-world business questions using SQL. Each project folder includes a case study, clean queries, and insights that reflect how I think through data problems and communicate results clearly.
+
+---
+
+## 🧠 What You'll Find Here
+
+Each project answers a specific business question and includes:
+
+- ✅ A clear objective
+- 📊 A detailed SQL query
+- 🧾 A written breakdown of the methodology and key insights
+
+---
+
+## 📁 Project List
+
+| Project Title | Description |
+|---------------|-------------|
+| [Top 10 Salaries] | Identify highest-paid employees by salary |
+| [Performance Review Scores] | Analyze how employee scores are distributed |
+| [Promotion Rate by Score] | Investigate how performance impacts promotions |
+| [Salary Growth by Hiring Source] | Explore if hire source affects salary growth |
+| [Employee Hiring Sources] | Determine which sources are most used to hire |
+| [Why Are Employees Leaving] | Understand top reasons for attrition |
+| [Top Training Programs Among High Performers] | Identify training trends among top employees |
+
+---
+
+## 🔧 Tools Used
+
+- SQL (PostgreSQL)
+- Tableau (for visual analysis, in some cases)
+- Excel (for data prep and exploration)
+
+---
+
+📬 Contact
+
+If you'd like to connect, feel free to reach out via https://www.linkedin.com/in/shanteca-alfred/
 <!---
 Shanteca/Shanteca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
